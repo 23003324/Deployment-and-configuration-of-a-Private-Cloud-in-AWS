@@ -148,7 +148,7 @@ Snapshot 10: Creating route table
 
 ## Result:
 
-Thus, a  private cloud on AWS involves using VPCs has been created for  a dedicated, isolated network where we can manage our resources and control access according 
+Thus, a  private cloud on AWS involves using VPCs has been created for  a dedicated,
 
-to our requirements.
+isolated network where we can manage our resources and control access according to our requirements.
  

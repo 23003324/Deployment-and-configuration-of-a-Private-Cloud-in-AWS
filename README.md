@@ -17,6 +17,7 @@ Get started by setting up your VPC in the AWS service console. Next, add resourc
 Service (RDS) instances. Finally, define how your VPCs communicate with each other across accounts, Availability Zones, or AWS Regions.
 
 ## Procedure:
+
 1. Plan Your VPC:
    
 ● Determine your needs:
@@ -65,7 +66,7 @@ Plan your security groups, network ACLs, and access controls to ensure a secure 
 
 •	Configure networking: Connect your resources to the appropriate subnets, security
 
-         groups, and route tables.
+   groups, and route tables.
          
 •	Deploy other AWS services: Integrate other services like S3 for storage and Lambda for serverless computing.
 
